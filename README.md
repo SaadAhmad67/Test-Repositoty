@@ -1,3 +1,3 @@
 
-
-Git & Github Class
+#Author: Saad Ahmad
+.Git & Github Class
